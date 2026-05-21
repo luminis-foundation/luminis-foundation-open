@@ -33,4 +33,4 @@ Luminis Foundation is building sovereign, ecologically-situated AI in the open. 
 
 ## Contact
 
-📧 info@luminisfoundationresearch.org
+📧 carlos@luminisfoundationresearch.org

@@ -42,4 +42,4 @@ Thank you for your interest in contributing.
 
 ## Questions
 
-📧 info@luminisfoundationresearch.org
+📧 carlos@luminisfoundationresearch.org

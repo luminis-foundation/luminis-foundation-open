@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: General Inquiry
-    url: mailto:info@luminisfoundationresearch.org
+    url: mailto:carlos@luminisfoundationresearch.org
     about: Email us for foundation-related inquiries.
   - name: Support Luminis Foundation
     url: https://github.com/luminis-foundation/luminis-foundation-open/blob/main/community/support.md

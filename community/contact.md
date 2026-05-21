@@ -2,7 +2,7 @@
 
 ## General Inquiries
 
-📧 **info@luminisfoundationresearch.org**
+📧 **carlos@luminisfoundationresearch.org**
 
 ## Research Collaboration
 

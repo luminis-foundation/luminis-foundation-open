@@ -61,7 +61,7 @@ We welcome contributions that align with the foundation's mission. See [CONTRIBU
 
 For research collaboration inquiries, field deployment proposals, or general questions:
 
-📧 **info@luminisfoundationresearch.org**
+📧 **carlos@luminisfoundationresearch.org**
 
 ## Foundation Status
 

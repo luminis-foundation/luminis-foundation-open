@@ -26,4 +26,4 @@ Formal donation channels are being established as part of the 501(c)(3) applicat
 
 ## Contact
 
-📧 info@luminisfoundationresearch.org
+📧 carlos@luminisfoundationresearch.org

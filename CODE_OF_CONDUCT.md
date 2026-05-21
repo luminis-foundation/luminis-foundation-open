@@ -42,4 +42,4 @@ Project maintainers may remove, edit, or reject comments, issues, pull requests,
 
 ## Reporting
 
-Report Code of Conduct violations to: **info@luminisfoundationresearch.org**
+Report Code of Conduct violations to: **carlos@luminisfoundationresearch.org**
