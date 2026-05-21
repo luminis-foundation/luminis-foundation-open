@@ -1,24 +1,45 @@
 # Contributing to Luminis Foundation
 
-Thank you for your interest in contributing to Luminis Foundation.
+Thank you for your interest in contributing.
 
-## Ways to contribute
-- Suggest ideas or improvements
-- Help write or refine public materials
-- Contribute code, design, research, or documentation
-- Open issues for bugs, proposals, or mission-aligned initiatives
+## Before You Start
 
-## Before contributing
-Please read the README to understand the mission and current priorities.
+1. Read the [README](README.md) for an overview of the foundation and its work
+2. Review the [foundational paper](https://doi.org/10.5281/zenodo.20143391) to understand the research context
+3. Check the [governance](governance/) documents for mission and direction
 
-## Contribution process
+## Repository Structure
+
+- **`governance/`** — Mission, vision, roadmap, transparency
+- **`research/`** — Publications, field notes
+- **`field-deployment/`** — Site specs, protocols for Pecos watershed work
+- **`community/`** — How to get involved, contact, support
+
+## How to Contribute
+
+### Ideas and Discussion
+- Open an issue using one of the [issue templates](.github/ISSUE_TEMPLATE/)
+- Be specific and connect your idea to the foundation's mission
+
+### Code and Documentation
 1. Fork the repository
-2. Create a branch for your change
-3. Make your updates
-4. Open a pull request with a clear explanation
+2. Create a feature branch (`feat/your-change`)
+3. Make focused, well-documented changes
+4. Open a pull request with a clear explanation of what and why
+
+### Research Contributions
+- Use the **Research Idea** issue template for proposals
+- Use the **Field Observation** template for reporting field data or observations
+- All research contributions should reference the relevant section of the foundational paper where applicable
 
 ## Guidelines
-- Keep changes focused and clear
-- Respect the mission of sovereignty, privacy, and ecological alignment
+
+- Keep changes focused — one concern per PR
+- Respect the mission: sovereignty, privacy, ecological alignment
 - Be constructive and specific in discussion
-- Document why your change matters
+- Document your reasoning — explain *why*, not just *what*
+- Follow the [Code of Conduct](CODE_OF_CONDUCT.md)
+
+## Questions
+
+📧 info@luminisfoundationresearch.org

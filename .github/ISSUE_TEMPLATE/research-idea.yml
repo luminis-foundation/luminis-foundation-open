@@ -1,0 +1,39 @@
+name: Research Idea
+description: Propose a research direction, experiment, or collaboration
+title: "[Research] "
+labels: ["research"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for proposing a research idea. Please connect it to the foundation's
+        [published research](https://doi.org/10.5281/zenodo.20143391) where possible.
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Brief description of the research idea
+      placeholder: What are you proposing?
+    validations:
+      required: true
+
+  - type: textarea
+    id: connection
+    attributes:
+      label: Connection to existing work
+      description: How does this relate to the foundational paper or current research directions?
+      placeholder: Reference specific sections, topics, or open questions
+
+  - type: textarea
+    id: approach
+    attributes:
+      label: Proposed approach
+      description: How would you investigate this?
+      placeholder: Methods, tools, timeline, resources needed
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Any relevant references, links, or background
