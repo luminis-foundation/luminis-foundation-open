@@ -1,54 +1,45 @@
-# Luminis Foundation Code of Conduct
+# Code of Conduct
 
 ## Purpose
-Luminis Foundation is being built as a mission-aligned public collaboration space. This Code of Conduct exists to help create a respectful, constructive, and principled environment for everyone who participates.
 
-## Our Standard
+Luminis Foundation maintains this public collaboration space for scientific research and public-benefit technology development. This Code of Conduct establishes the standards for respectful, constructive participation.
+
+## Our Standards
+
 We expect all contributors and participants to act with:
-- Respect
-- Honesty
-- Constructive intent
-- Intellectual openness
-- Professionalism
-- Care for human dignity
+- Respect for others and their contributions
+- Honesty and intellectual openness
+- Constructive intent in all communication
+- Professionalism and care for human dignity
 
 ## Expected Behavior
-Contributors are expected to:
-- Be respectful in communication
-- Offer criticism constructively
-- Stay focused on the mission and substance of the work
-- Welcome thoughtful questions, ideas, and good-faith discussion
+
+- Be respectful and welcoming in communication
+- Offer criticism constructively, with specifics and suggested alternatives
+- Stay focused on the mission and the substance of the work
+- Welcome thoughtful questions and good-faith discussion
 - Respect differences in background, perspective, and experience
-- Help maintain a serious and collaborative environment
 
 ## Unacceptable Behavior
-The following behavior is not acceptable:
-- Harassment or personal attacks
+
+- Harassment, personal attacks, or intimidation
 - Hate speech or discriminatory language
-- Trolling, intimidation, or deliberate disruption
-- Bad-faith argumentation
+- Trolling or deliberate disruption
 - Spam or irrelevant self-promotion
 - Sharing private or sensitive information without permission
-- Repeatedly derailing discussion away from the mission of the project
 
 ## Mission Alignment
-Luminis Foundation is focused on sovereignty, privacy, ethical technology, ecological alignment, and long-term human flourishing. Participation should support these goals rather than undermine them.
+
+Luminis Foundation is focused on sovereignty, privacy, ecological alignment, and long-term human flourishing. Participation should support these goals.
 
 ## Scope
-This Code of Conduct applies to:
-- Repository discussions
-- Issues
-- Pull requests
-- Project conversations connected to this repository
-- Public collaboration spaces directly related to Luminis Foundation
+
+This Code of Conduct applies to all repository interactions: issues, pull requests, discussions, and any public collaboration space directly related to Luminis Foundation.
 
 ## Enforcement
-Project maintainers may remove, edit, or reject comments, issues, pull requests, or contributions that violate this Code of Conduct.
 
-Maintainers may also restrict participation from individuals whose behavior repeatedly harms the collaboration environment.
+Project maintainers may remove, edit, or reject comments, issues, pull requests, or contributions that violate this Code of Conduct. Repeated violations may result in restricted participation.
 
 ## Reporting
-If behavior arises that violates this Code of Conduct, report it to the project maintainer through the appropriate repository contact method once available.
 
-## Current Stage
-As Luminis Foundation grows, this Code of Conduct may be refined to better support the community and the mission.
+Report Code of Conduct violations to: **info@luminisfoundationresearch.org**

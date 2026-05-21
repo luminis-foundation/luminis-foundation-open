@@ -1,0 +1,19 @@
+name: General
+description: Ask a question, suggest an improvement, or start a discussion
+title: "[General] "
+labels: ["general"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What's on your mind?
+      placeholder: Be specific and connect to the foundation's mission where possible
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Any relevant links, references, or background

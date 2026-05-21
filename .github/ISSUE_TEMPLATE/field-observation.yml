@@ -1,0 +1,43 @@
+name: Field Observation
+description: Report a field observation, measurement, or site condition
+title: "[Field] "
+labels: ["field-deployment"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to document field observations relevant to the
+        Pecos watershed deployment or related ecosystems.
+
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: General area or coordinates (do not share precise GPS for sensitive sites)
+      placeholder: e.g., Upper Pecos watershed, piñon-juniper zone
+
+  - type: input
+    id: date
+    attributes:
+      label: Date of observation
+      placeholder: YYYY-MM-DD
+
+  - type: textarea
+    id: observation
+    attributes:
+      label: Observation
+      description: What did you observe?
+    validations:
+      required: true
+
+  - type: textarea
+    id: relevance
+    attributes:
+      label: Relevance
+      description: How does this relate to the foundation's research or deployment work?
+
+  - type: textarea
+    id: media
+    attributes:
+      label: Photos or data
+      description: Attach photos, data files, or links to supplementary material
