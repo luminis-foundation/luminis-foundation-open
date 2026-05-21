@@ -4,7 +4,7 @@
 
 If you discover a security vulnerability in any Luminis Foundation repository, please report it responsibly.
 
-**Email:** info@luminisfoundationresearch.org
+**Email:** carlos@luminisfoundationresearch.org
 
 **Subject line:** `[SECURITY] Brief description`
 
