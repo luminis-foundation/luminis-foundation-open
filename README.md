@@ -70,8 +70,8 @@ For research collaboration inquiries, field deployment proposals, or general que
 | NM incorporation | ✅ Complete (Entity ID 0008089293) |
 | Foundational paper published | ✅ [DOI: 10.5281/zenodo.20143391](https://doi.org/10.5281/zenodo.20143391) |
 | Domain | ✅ [luminisfoundationresearch.org](https://luminisfoundationresearch.org) |
-| 501(c)(3) application | ⏳ In progress |
-| Field deployment (Pecos watershed) | 📋 Planning |
+| 501(c)(3) application | ✅ Filed pending IRS review |
+| Field deployment (Pecos watershed) | ✅ Building (mycosense)|
 
 ## License
 
