@@ -10,7 +10,7 @@
 
 ## What This Is
 
-Luminis Foundation is a New Mexico domestic nonprofit corporation organized under IRC §501(c)(3) for scientific research, education, and public-benefit technological development.
+Luminis Foundation is a New Mexico domestic nonprofit corporation organized for scientific research, education, and public-benefit technological development. The Foundation has applied for recognition of tax-exempt status under IRC §501(c)(3); a determination from the IRS is pending.
 
 Our work sits at the intersection of decentralized artificial intelligence, environmental sustainability, and privacy-preserving digital systems — grounded in place: the Pecos watershed and high-desert ecosystems of Northern New Mexico.
 
@@ -45,7 +45,7 @@ luminis-foundation-open/
 
 ## Research
 
-Our first published work establishes the theoretical and empirical foundation:
+Our first published work establishes the theoretical and conceptual foundation:
 
 - **[Bridging Mycelium-Inspired Decentralized Computing and Symbiotic Plant–Fungal–AI Bio-Hybrid Systems in Northern New Mexico's High-Desert Ecosystems](https://doi.org/10.5281/zenodo.20143391)** (2026)
   - Mycelium-inspired network topologies for decentralized AI
@@ -70,8 +70,11 @@ For research collaboration inquiries, field deployment proposals, or general que
 | NM incorporation | ✅ Complete (Entity ID 0008089293) |
 | Foundational paper published | ✅ [DOI: 10.5281/zenodo.20143391](https://doi.org/10.5281/zenodo.20143391) |
 | Domain | ✅ [luminisfoundationresearch.org](https://luminisfoundationresearch.org) |
-| 501(c)(3) application | ✅ Filed pending IRS review |
-| Field deployment (Pecos watershed) | ✅ Building (mycosense)|
+| 501(c)(3) application | ✅ Filed — awaiting IRS determination |
+| MycoSense dashboard | ✅ Live (simulated/mock data) — [mycosense](https://github.com/luminis-foundation/mycosense) |
+| Hardware prototype | ✅ Bench-tested (ESP32 + Raspberry Pi, end-to-end) |
+| Controlled on-site prototype deployment (Rowe, NM) | 📋 Planned |
+| Broader Pecos watershed deployment | ⬜ Future |
 
 ## License
 
