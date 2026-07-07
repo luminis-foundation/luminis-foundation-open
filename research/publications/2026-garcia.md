@@ -1,6 +1,6 @@
 # Bridging Mycelium-Inspired Decentralized Computing and Symbiotic Plant–Fungal–AI Bio-Hybrid Systems in Northern New Mexico's High-Desert Ecosystems
 
-**Authors:** Garcia, C., Kimble, A., Martin, G., & VanKaujk, S.
+**Authors:** Garcia, C.
 
 **Year:** 2026
 
@@ -25,7 +25,7 @@ This paper explores the intersection of mycelium-inspired decentralized computin
 ```bibtex
 @article{garcia2026bridging,
   title={Bridging Mycelium-Inspired Decentralized Computing and Symbiotic Plant--Fungal--AI Bio-Hybrid Systems in Northern New Mexico's High-Desert Ecosystems},
-  author={Garcia, Carlos and Kimble, Adam and Martin, Guillermo and VanKaujk, Sterling},
+  author={Garcia, Carlos},
   year={2026},
   doi={10.5281/zenodo.20143391},
   publisher={Zenodo}
