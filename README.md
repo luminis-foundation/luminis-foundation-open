@@ -4,7 +4,7 @@
 
 > *Bridging Mycelium-Inspired Decentralized Computing and Symbiotic Plant–Fungal–AI Bio-Hybrid Systems in Northern New Mexico's High-Desert Ecosystems*
 >
-> Garcia, C., Kimble, A., Martin, G., & VanKaujk, S. (2026). Zenodo. [https://doi.org/10.5281/zenodo.20143391](https://doi.org/10.5281/zenodo.20143391)
+> Garcia, C. (2026). *Bridging Mycelium-Inspired Decentralized Computing and Symbiotic Plant–Fungal–AI Bio-Hybrid Systems in Northern New Mexico's High-Desert Ecosystems.* Zenodo. [https://doi.org/10.5281/zenodo.20143391](https://doi.org/10.5281/zenodo.20143391)
 
 ---
 

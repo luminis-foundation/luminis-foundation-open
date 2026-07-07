@@ -17,7 +17,7 @@ Luminis Foundation envisions a future where intelligence is decentralized, ecolo
 
 In Northern New Mexico's high-desert ecosystems, we are developing bio-hybrid systems where AI, plants, and fungi collaborate at the edge. Sensor nodes nestled in piñon-juniper woodlands. Mycelial network topologies routing data through living substrates. Intelligence that runs on soil moisture cycles and seasonal rhythms.
 
-This is not a metaphor. It's an engineering program grounded in published research ([Garcia et al., 2026](https://doi.org/10.5281/zenodo.20143391)) and headed toward field deployment in the Pecos watershed.
+This is not a metaphor. It's an engineering program grounded in published research ([Garcia, 2026](https://doi.org/10.5281/zenodo.20143391)) and headed toward field deployment in the Pecos watershed.
 
 ## Long-Term Direction
 
