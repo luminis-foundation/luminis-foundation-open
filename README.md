@@ -73,8 +73,12 @@ For research collaboration inquiries, field deployment proposals, or general que
 | 501(c)(3) application | ✅ Filed — awaiting IRS determination |
 | MycoSense dashboard | ✅ Live (simulated/mock data) — [mycosense](https://github.com/luminis-foundation/mycosense) |
 | Hardware prototype | ✅ Bench-tested (ESP32 + Raspberry Pi, end-to-end) |
-| Controlled on-site prototype deployment (Rowe, NM) | 📋 Planned |
+| Controlled on-site prototype deployment (private Northern NM test site) | 📋 Planned |
 | Broader Pecos watershed deployment | ⬜ Future |
+
+## Public / Private Boundary
+
+Public repositories contain public-safe research, documentation, and demonstration code. Private legal records, financial records, credential procedures, exact deployment locations, raw sensitive field records, board signatures, internal risk registers, and operational security runbooks are retained privately by authorized Foundation officers.
 
 ## License
 
