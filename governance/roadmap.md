@@ -7,7 +7,7 @@
 - [x] Publish foundational research ([DOI: 10.5281/zenodo.20143391](https://doi.org/10.5281/zenodo.20143391))
 - [x] Establish public collaboration repository
 - [x] Register domain (luminisfoundationresearch.org)
-- [ ] Complete 501(c)(3) application (Form 1023-EZ)
+- [x] Complete 501(c)(3) application (Form 1023-EZ) — filed June 9, 2026; determination letter received July 9, 2026
 - [ ] NM-COROS charitable registration
 - [ ] Establish banking and financial infrastructure
 

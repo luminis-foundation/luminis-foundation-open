@@ -17,4 +17,4 @@ As the foundation matures, annual reports, financial disclosures, and board meet
 - **Entity:** Luminis Foundation — NM domestic nonprofit corporation
 - **Entity ID:** 0008089293
 - **Incorporated:** March 16, 2026
-- **Organized under:** IRC §501(c)(3)
+- **Organized under:** IRC §501(c)(3) — recognized as a public charity (determination letter received July 9, 2026)
