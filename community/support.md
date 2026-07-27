@@ -22,7 +22,7 @@ Help spread awareness of the foundation's research and mission:
 - Connect us with aligned researchers, institutions, and funders
 
 ### Financial Support
-Formal donation channels are being established as part of the 501(c)(3) application process. Details will be published here once available.
+Luminis Foundation is a recognized 501(c)(3) public charity. Contributions may be tax-deductible to the extent permitted by law. To discuss a donation or learn more about supporting the Foundation, contact us at carlos@luminisfoundationresearch.org.
 
 ## Contact
 

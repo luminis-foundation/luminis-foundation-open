@@ -10,7 +10,7 @@
 
 ## What This Is
 
-Luminis Foundation is a New Mexico domestic nonprofit corporation organized for scientific research, education, and public-benefit technological development. The Foundation has applied for recognition of tax-exempt status under IRC §501(c)(3); a determination from the IRS is pending.
+Luminis Foundation is a New Mexico domestic nonprofit corporation organized for scientific research, education, and public-benefit technological development. The Foundation is recognized by the IRS as a tax-exempt public charity under IRC §501(c)(3).
 
 Our work sits at the intersection of decentralized artificial intelligence, environmental sustainability, and privacy-preserving digital systems — grounded in place: the Pecos watershed and high-desert ecosystems of Northern New Mexico.
 
@@ -70,7 +70,7 @@ For research collaboration inquiries, field deployment proposals, or general que
 | NM incorporation | ✅ Complete (Entity ID 0008089293) |
 | Foundational paper published | ✅ [DOI: 10.5281/zenodo.20143391](https://doi.org/10.5281/zenodo.20143391) |
 | Domain | ✅ [luminisfoundationresearch.org](https://luminisfoundationresearch.org) |
-| 501(c)(3) application | ✅ Filed — awaiting IRS determination |
+| 501(c)(3) status | ✅ Recognized — IRS determination letter received |
 | MycoSense dashboard | ✅ Live (simulated/mock data) — [mycosense](https://github.com/luminis-foundation/mycosense) |
 | Hardware prototype | ✅ Bench-tested (ESP32 + Raspberry Pi, end-to-end) |
 | Controlled on-site prototype deployment (private Northern NM test site) | 📋 Planned |
